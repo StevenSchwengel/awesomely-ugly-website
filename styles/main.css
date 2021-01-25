@@ -1,0 +1,47 @@
+img {
+  width: 100%;
+}
+
+p {
+  font-size: 20px;
+  color: blue;
+}
+
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.flex-container div {
+  background-color: #f1f1f1;
+  margin: 20px;
+  padding: 10px;
+  font-size: 30px;
+}
+
+
+.parent {
+  color: blue;
+}
+
+/* original
+.parent P { */
+
+.parent P {
+  color: orange;
+}
+
+.parent img {
+  width: 30%;
+  padding: 10px;
+}
+
+footer {
+  text-align: center;
+  text: purple;
+}
+
+header{
+  text-align: center;
+  text:green;
+}
